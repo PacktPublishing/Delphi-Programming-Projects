@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/09/15 14:31:27.000.266,=C:\Users\Heber\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/20 19:34:45.000.065,=C:\Users\Heber\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/23 00:14:20.000.496,=C:\Users\Heber\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/01/25 21:27:09.000.193,=C:\Users\Heber\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/01/29 19:10:21.000.582,=C:\Users\Heber\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/10 18:28:07.000.409,=C:\Users\Heber\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/09 11:37:16.000.530,=C:\Users\Heber\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/08/09 11:37:44.000.769,C:\Users\Heber\Documents\Embarcadero\Studio\Projects\Unit1.pas=H:\99Coders\Posts\24 - Clone Instagram - 02 - Login\Fontes\Form_Inicial.pas</Transaction>
+    <Transaction>2018/08/09 11:37:44.000.769,C:\Users\Heber\Documents\Embarcadero\Studio\Projects\Unit1.fmx=H:\99Coders\Posts\24 - Clone Instagram - 02 - Login\Fontes\Form_Inicial.fmx</Transaction>
+    <Transaction>2018/08/09 11:37:51.000.552,C:\Users\Heber\Documents\Embarcadero\Studio\Projects\Project1.dproj=H:\99Coders\Posts\24 - Clone Instagram - 02 - Login\Fontes\Instagram.dproj</Transaction>
+    <Transaction>2018/08/17 19:46:59.000.974,=H:\99Coders\Posts\28 - Clone Instagram - 03 - Nova Conta\Fontes\Unit2.pas</Transaction>
+    <Transaction>2018/08/17 19:47:17.000.280,H:\99Coders\Posts\28 - Clone Instagram - 03 - Nova Conta\Fontes\Form_Login.pas=H:\99Coders\Posts\28 - Clone Instagram - 03 - Nova Conta\Fontes\Unit2.pas</Transaction>
+    <Transaction>2018/08/17 19:47:17.000.280,H:\99Coders\Posts\28 - Clone Instagram - 03 - Nova Conta\Fontes\Form_Login.fmx=H:\99Coders\Posts\28 - Clone Instagram - 03 - Nova Conta\Fontes\Unit2.fmx</Transaction>
+    <Transaction>2018/10/26 01:30:31.000.076,=C:\Projetos\Livro Delphi Packt\examples\01 - Instagram Clone\Unit1.pas</Transaction>
+    <Transaction>2018/10/26 04:17:34.000.885,C:\Projetos\Livro Delphi Packt\examples\01 - Instagram Clone\Unit1.pas=C:\Projetos\Livro Delphi Packt\examples\01 - Instagram Clone\uFrmInstagram.pas</Transaction>
+    <Transaction>2018/10/26 04:17:34.000.885,C:\Projetos\Livro Delphi Packt\examples\01 - Instagram Clone\Unit1.fmx=C:\Projetos\Livro Delphi Packt\examples\01 - Instagram Clone\uFrmInstagram.fmx</Transaction>
+    <Transaction>2018/12/04 03:50:16.950,C:\Projetos\Livro Delphi Packt\examples\01 - Instagram Clone\Form_Login.pas=</Transaction>
+    <Transaction>2018/12/04 03:50:17.188,C:\Projetos\Livro Delphi Packt\examples\01 - Instagram Clone\Form_Inicial.pas=</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="Emulador" iOSSimulator="iPhone5"/>
+		<PMACANDREA iOSSimulator="iPhone5"/>
+		<PMacBook iOSSimulator="iPhone5"/>
+		<PMacVirtual iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

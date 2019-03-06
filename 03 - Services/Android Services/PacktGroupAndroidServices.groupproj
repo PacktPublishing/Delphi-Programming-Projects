@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{587209DC-3AE1-491A-92F2-16392E46EE45}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="PacktAndroidService.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="PacktHostApp.dproj">
+            <Dependencies>PacktAndroidService.dproj</Dependencies>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="PacktAndroidService">
+        <MSBuild Projects="PacktAndroidService.dproj"/>
+    </Target>
+    <Target Name="PacktAndroidService:Clean">
+        <MSBuild Projects="PacktAndroidService.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="PacktAndroidService:Make">
+        <MSBuild Projects="PacktAndroidService.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="PacktHostApp" DependsOnTargets="PacktAndroidService">
+        <MSBuild Projects="PacktHostApp.dproj"/>
+    </Target>
+    <Target Name="PacktHostApp:Clean" DependsOnTargets="PacktAndroidService:Clean">
+        <MSBuild Projects="PacktHostApp.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="PacktHostApp:Make" DependsOnTargets="PacktAndroidService:Make">
+        <MSBuild Projects="PacktHostApp.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="PacktAndroidService;PacktHostApp"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="PacktAndroidService:Clean;PacktHostApp:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="PacktAndroidService:Make;PacktHostApp:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

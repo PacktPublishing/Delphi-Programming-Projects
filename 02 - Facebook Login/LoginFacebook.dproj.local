@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/01/27 01:51:54.000.434,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/27 01:56:03.000.741,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/28 02:15:30.000.300,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/28 15:34:59.000.164,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/20 11:24:07.000.197,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/02 23:26:01.660,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/03 03:56:18.156,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/12/03 05:10:28.961,C:\Projetos\Livro Delphi Packt\examples\02 - Facebook Login\Unit1.fmx=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2018/12/03 05:10:28.961,C:\Projetos\Livro Delphi Packt\examples\02 - Facebook Login\Unit1.pas=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/03 05:10:42.477,C:\Projetos\Livro Delphi Packt\examples\02 - Facebook Login\uFrmLogin.pas=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/12/03 05:10:42.477,C:\Projetos\Livro Delphi Packt\examples\02 - Facebook Login\uFrmLogin.fmx=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit2.fmx</Transaction>
+    <Transaction>2018/12/03 05:10:50.241,C:\Projetos\Livro Delphi Packt\examples\02 - Facebook Login\LoginFacebook.dproj=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5" Android="Emulador"/>
+  </ActiveMobileDevice>
+</BorlandProject>

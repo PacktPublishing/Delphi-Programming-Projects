@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/01/27 01:51:54.000.434,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/27 01:56:03.000.741,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/28 02:15:30.000.300,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/28 15:34:59.000.164,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/20 11:24:07.000.197,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/20 19:19:57.000.787,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/20 19:23:28.000.685,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/20 19:25:03.000.238,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PacktAndroidService.dproj</Transaction>
+    <Transaction>2019/01/20 19:29:00.000.011,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Projetos\Livro Delphi Packt\Unit1.pas</Transaction>
+    <Transaction>2019/01/20 19:29:00.000.011,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Projetos\Livro Delphi Packt\Unit1.dfm</Transaction>
+    <Transaction>2019/01/20 19:30:03.000.114,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PacktAndroidService.dproj=C:\Projetos\Livro Delphi Packt\examples\03 - Services\Android Services\PacktAndroidService.dproj</Transaction>
+    <Transaction>2019/01/20 19:30:28.000.907,C:\Projetos\Livro Delphi Packt\Unit1.dfm=C:\Projetos\Livro Delphi Packt\examples\03 - Services\Android Services\uPacktAndroidServiceDM.dfm</Transaction>
+    <Transaction>2019/01/20 19:30:28.000.907,C:\Projetos\Livro Delphi Packt\Unit1.pas=C:\Projetos\Livro Delphi Packt\examples\03 - Services\Android Services\uPacktAndroidServiceDM.pas</Transaction>
+  </Transactions>
+</BorlandProject>

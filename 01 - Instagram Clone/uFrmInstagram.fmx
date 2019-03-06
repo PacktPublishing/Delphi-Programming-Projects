@@ -1,0 +1,184 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 3
+  object ToolBar1: TToolBar
+    Size.Width = 640.000000000000000000
+    Size.Height = 48.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object btnPhoto: TButton
+      Action = TakePhotoFromCameraAction1
+      Align = Left
+      Enabled = True
+      ImageIndex = -1
+      Margins.Left = 5.000000000000000000
+      Margins.Top = 5.000000000000000000
+      Margins.Right = 5.000000000000000000
+      Margins.Bottom = 5.000000000000000000
+      Position.X = 5.000000000000000000
+      Position.Y = 5.000000000000000000
+      Size.Width = 48.000000000000000000
+      Size.Height = 48.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = 'cameratoolbutton'
+      TabOrder = 0
+    end
+    object Button2: TButton
+      Action = TakePhotoFromLibraryAction1
+      Align = Left
+      Enabled = True
+      ImageIndex = -1
+      Margins.Left = 5.000000000000000000
+      Margins.Top = 5.000000000000000000
+      Margins.Right = 5.000000000000000000
+      Margins.Bottom = 5.000000000000000000
+      Position.X = 63.000000000000000000
+      Position.Y = 5.000000000000000000
+      Size.Width = 48.000000000000000000
+      Size.Height = 48.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = 'searchtoolbutton'
+      TabOrder = 1
+    end
+    object Rectangle1: TRectangle
+      Align = Center
+      ClipChildren = True
+      Fill.Color = claNull
+      Size.Width = 171.000000000000000000
+      Size.Height = 48.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Kind = None
+      XRadius = 5.000000000000000000
+      YRadius = 5.000000000000000000
+      object SpeedButton1: TSpeedButton
+        Align = Client
+        Size.Width = 171.000000000000000000
+        Size.Height = 48.000000000000000000
+        Size.PlatformDefault = False
+        StyleLookup = 'SpeedButton1Style1'
+        Text = 'Share'
+        object Path1: TPath
+          Align = Left
+          Data.Path = {
+            4A000000000000009A99F94000000040010000009A9981410000004002000000
+            33339B4100000040020000000000B04133339340020000000000B0419A99F940
+            010000000000B0419A998141020000000000B041DC399B4102000000DD399B41
+            0000B041020000009B9981410000B041010000009A99F9400000B04102000000
+            333393400000B041020000000000004033339B4102000000000000409A998141
+            01000000000000409A99F94002000000020000408E1893400200000092189340
+            FCFFFF3F020000009C99F94000000040000000003333F3400000804002000000
+            AA93B340010080400200000001008040AA93B34002000000020080403433F340
+            0100000002008040333383410200000000008040B81E9341020000001F85B340
+            0000A041020000003333F3400000A04101000000333383410000A04102000000
+            161B93410100A041020000000100A041161B9341020000000100A04134338341
+            010000000100A0413333F340020000000000A0411F85B34002000000B81E9341
+            00008040020000003333834100008040010000003333F3400000804000000000
+            00008A410000B04002000000D9858F410000B04002000000000094419BE8C140
+            02000000000094410000D84002000000000094416517EE4002000000D9858F41
+            000000410200000000008A410000004102000000277A84410000004102000000
+            000080416517EE4002000000000080410000D84002000000000080419AE8C140
+            02000000277A84410000B0400200000000008A410000B0400000000000004041
+            0000E04002000000CB2E6C410000E040020000000000884135D1134102000000
+            00008841000040410200000000008841CB2E6C4102000000CB2E6C4100008841
+            0200000000004041000088410200000035D1134100008841020000000000E040
+            CB2E6C41020000000000E04000004041020000000100E04034D1134102000000
+            36D11341FFFFDF4002000000010040410000E040000000000000404100001041
+            02000000867D2541000010410200000000001041867D25410200000000001041
+            0000404102000000000010417A825A4102000000867D25410000704102000000
+            0000404100007041020000007A825A410000704102000000000070417A825A41
+            0200000000007041000040410200000000007041867D2541020000007A825A41
+            00001041020000000000404100001041030000000000404100001041}
+          Fill.Color = xFFD317FA
+          Margins.Left = 1.000000000000000000
+          Margins.Top = 5.000000000000000000
+          Margins.Right = 1.000000000000000000
+          Margins.Bottom = 5.000000000000000000
+          Position.X = 1.000000000000000000
+          Position.Y = 5.000000000000000000
+          Size.Width = 43.000000000000000000
+          Size.Height = 38.000000000000000000
+          Size.PlatformDefault = False
+          Stroke.Kind = None
+        end
+      end
+    end
+    object Button3: TButton
+      Align = Right
+      Margins.Left = 5.000000000000000000
+      Margins.Top = 5.000000000000000000
+      Margins.Right = 5.000000000000000000
+      Margins.Bottom = 5.000000000000000000
+      Position.X = 587.000000000000000000
+      Position.Y = 5.000000000000000000
+      Size.Width = 48.000000000000000000
+      Size.Height = 48.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = 'cameratoolbutton'
+      TabOrder = 3
+      Text = 'Button3'
+      OnClick = Button3Click
+    end
+  end
+  object ToolBar2: TToolBar
+    Align = Bottom
+    Position.Y = 432.000000000000000000
+    Size.Width = 640.000000000000000000
+    Size.Height = 48.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    object Button1: TButton
+      Align = Right
+      Margins.Left = 5.000000000000000000
+      Margins.Top = 5.000000000000000000
+      Margins.Right = 5.000000000000000000
+      Margins.Bottom = 5.000000000000000000
+      Position.X = 587.000000000000000000
+      Position.Y = 5.000000000000000000
+      Size.Width = 48.000000000000000000
+      Size.Height = 48.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = 'escapetoolbutton'
+      TabOrder = 0
+      Text = 'Button1'
+    end
+  end
+  object Layout1: TLayout
+    Align = Client
+    Size.Width = 640.000000000000000000
+    Size.Height = 384.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    object ImgInsta: TImage
+      MultiResBitmap = <
+        item
+        end>
+      Align = Client
+      Size.Width = 640.000000000000000000
+      Size.Height = 384.000000000000000000
+      Size.PlatformDefault = False
+    end
+  end
+  object ActionList1: TActionList
+    Left = 488
+    Top = 392
+    object TakePhotoFromCameraAction1: TTakePhotoFromCameraAction
+      Category = 'Media Library'
+      OnDidFinishTaking = TakePhotoFromCameraAction1DidFinishTaking
+    end
+    object TakePhotoFromLibraryAction1: TTakePhotoFromLibraryAction
+      Category = 'Media Library'
+      OnDidFinishTaking = TakePhotoFromLibraryAction1DidFinishTaking
+    end
+    object ShowShareSheetAction1: TShowShareSheetAction
+      Category = 'Media Library'
+      OnBeforeExecute = ShowShareSheetAction1BeforeExecute
+    end
+  end
+end

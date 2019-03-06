@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/01/27 01:51:54.000.434,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/27 01:56:03.000.741,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/28 02:15:30.000.300,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/28 15:34:59.000.164,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/20 11:24:07.000.197,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/13 19:58:45.000.153,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/15 00:47:56.000.191,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Projetos\Livro Delphi Packt\examples\03 - Services\Windows Services\uService.pas</Transaction>
+    <Transaction>2019/01/15 00:47:56.000.191,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Projetos\Livro Delphi Packt\examples\03 - Services\Windows Services\uService.dfm</Transaction>
+    <Transaction>2019/01/15 00:48:04.000.390,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Projetos\Livro Delphi Packt\examples\03 - Services\Windows Services\pService.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

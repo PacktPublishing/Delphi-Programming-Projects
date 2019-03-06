@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/01/20 19:49:24.000.619,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/20 19:50:12.110,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/20 19:52:06.198,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PacktHostApp.dproj=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/01/20 19:52:15.151,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\uFrmHostSerivce.fmx=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2019/01/20 19:52:15.151,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\uFrmHostSerivce.pas=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/20 19:52:36.673,C:\Projetos\Livro Delphi Packt\examples\03 - Services\Android Services\uFrmHostSerivce.fmx=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\uFrmHostSerivce.fmx</Transaction>
+    <Transaction>2019/01/20 19:52:36.673,C:\Projetos\Livro Delphi Packt\examples\03 - Services\Android Services\uFrmHostSerivce.pas=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\uFrmHostSerivce.pas</Transaction>
+    <Transaction>2019/01/20 19:52:39.343,C:\Projetos\Livro Delphi Packt\examples\03 - Services\Android Services\PacktHostApp.dproj=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\PacktHostApp.dproj</Transaction>
+    <Transaction>2019/01/20 22:15:21.104,=C:\Projetos\Livro Delphi Packt\examples\03 - Services\Android Services\uPacktAndroidServiceDM.pas</Transaction>
+    <Transaction>2019/01/20 22:15:21.179,=C:\Projetos\Livro Delphi Packt\examples\03 - Services\Android Services\Android\Debug\PacktAndroidService.jar</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="Emulador"/>
+	</ActiveMobileDevice>
+</BorlandProject>
