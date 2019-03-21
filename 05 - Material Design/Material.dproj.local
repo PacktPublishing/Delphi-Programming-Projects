@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/03/16 16:30:43.000.242,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/16 19:56:30.000.195,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/16 20:51:28.000.262,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Projetos\Livro Delphi Packt\examples\Delphi-Programming-Projects\05 - Material Design\uFrmMenu.pas</Transaction>
+    <Transaction>2019/03/16 20:51:28.000.262,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Projetos\Livro Delphi Packt\examples\Delphi-Programming-Projects\05 - Material Design\uFrmMenu.fmx</Transaction>
+    <Transaction>2019/03/16 20:51:36.000.225,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Projetos\Livro Delphi Packt\examples\Delphi-Programming-Projects\05 - Material Design\Material.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android=""/>
+	</ActiveMobileDevice>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
