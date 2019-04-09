@@ -1,0 +1,64 @@
+object FrmCap6: TFrmCap6
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Image1: TImage
+    MultiResBitmap = <
+      item
+      end>
+    Align = Client
+    Size.Width = 640.000000000000000000
+    Size.Height = 480.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Button1: TButton
+    Position.X = 240.000000000000000000
+    Position.Y = 144.000000000000000000
+    TabOrder = 4
+    Text = 'Button1'
+  end
+  object TetheringManager1: TTetheringManager
+    OnRequestManagerPassword = TetheringManager1RequestManagerPassword
+    Password = 'delphi'
+    Text = 'TetheringManager1'
+    AllowedAdapters = 'Network'
+    Left = 352
+    Top = 192
+  end
+  object TetheringAppProfile1: TTetheringAppProfile
+    Manager = TetheringManager1
+    Text = 'TetheringAppProfile'
+    Group = 'Packt'
+    Actions = <
+      item
+        Name = 'Action1'
+        IsPublic = True
+        Action = Action1
+        NotifyUpdates = False
+      end>
+    Resources = <
+      item
+        Name = 'Photo'
+        IsPublic = True
+        Kind = Mirror
+        ResType = Stream
+        OnResourceReceived = TetheringAppProfile1Resources0ResourceReceived
+      end>
+    Left = 352
+    Top = 248
+  end
+  object ActionList1: TActionList
+    Left = 240
+    Top = 248
+    object Action1: TAction
+      Text = 'Action1'
+      OnExecute = Action1Execute
+    end
+  end
+end

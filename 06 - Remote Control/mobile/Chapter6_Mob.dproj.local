@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/03/16 16:30:43.000.242,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/07 17:09:44.000.149,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/07 18:12:54.000.795,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/08 01:23:24.000.958,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Projetos\Livro Delphi Packt\examples\Delphi-Programming-Projects\06 - Remote Control\mobile\uFrmMobile.pas</Transaction>
+    <Transaction>2019/04/08 01:23:24.000.958,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Projetos\Livro Delphi Packt\examples\Delphi-Programming-Projects\06 - Remote Control\mobile\uFrmMobile.fmx</Transaction>
+    <Transaction>2019/04/08 01:23:33.000.644,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Projetos\Livro Delphi Packt\examples\Delphi-Programming-Projects\06 - Remote Control\mobile\Chapter6_Mob.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android=""/>
+	</ActiveMobileDevice>
+</BorlandProject>

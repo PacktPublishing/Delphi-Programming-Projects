@@ -1,0 +1,30 @@
+unit uFrmCap6_Server;
+
+interface
+
+uses
+  System.SysUtils, System.Types, System.UITypes, System.Classes, System.Variants,
+  FMX.Types, FMX.Controls, FMX.Forms, FMX.Graphics, FMX.Dialogs, IPPeerClient,
+  IPPeerServer, System.Tether.Manager, System.Tether.AppProfile;
+
+type
+  TFrmCap6 = class(TForm)
+    TetheringManager1: TTetheringManager;
+    TetheringAppProfile1: TTetheringAppProfile;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  FrmCap6: TFrmCap6;
+
+implementation
+
+{$R *.fmx}
+
+uses
+  System.Tether.NetworkAdapter;
+
+end.

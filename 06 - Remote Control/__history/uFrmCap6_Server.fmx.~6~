@@ -1,0 +1,38 @@
+object FrmCap6: TFrmCap6
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Image1: TImage
+    MultiResBitmap = <
+      item
+      end>
+    Align = Client
+    Size.Width = 640.000000000000000000
+    Size.Height = 480.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object TetheringManager1: TTetheringManager
+    OnRequestManagerPassword = TetheringManager1RequestManagerPassword
+    Password = 'delphi'
+    Text = 'TetheringManager1'
+    AllowedAdapters = 'Network'
+    Left = 352
+    Top = 192
+  end
+  object TetheringAppProfile1: TTetheringAppProfile
+    Manager = TetheringManager1
+    Text = 'TetheringAppProfile'
+    Group = 'Packt'
+    Actions = <>
+    Resources = <>
+    OnResourceReceived = TetheringAppProfile1ResourceReceived
+    Left = 352
+    Top = 248
+  end
+end

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/03/16 16:30:43.000.242,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/24 18:16:17.000.690,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/07 16:30:58.000.941,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Projetos\Livro Delphi Packt\examples\Delphi-Programming-Projects\06 - Remote Control\uFrmCap6_Server.pas</Transaction>
+    <Transaction>2019/04/07 16:30:58.000.957,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Projetos\Livro Delphi Packt\examples\Delphi-Programming-Projects\06 - Remote Control\uFrmCap6_Server.fmx</Transaction>
+    <Transaction>2019/04/07 16:31:13.000.995,C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Projetos\Livro Delphi Packt\examples\Delphi-Programming-Projects\06 - Remote Control\appRemoteDesktop.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
