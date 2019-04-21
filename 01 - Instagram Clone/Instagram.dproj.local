@@ -17,11 +17,11 @@
     <Transaction>2018/10/26 01:30:31.000.076,=C:\Projetos\Livro Delphi Packt\examples\01 - Instagram Clone\Unit1.pas</Transaction>
     <Transaction>2018/10/26 04:17:34.000.885,C:\Projetos\Livro Delphi Packt\examples\01 - Instagram Clone\Unit1.pas=C:\Projetos\Livro Delphi Packt\examples\01 - Instagram Clone\uFrmInstagram.pas</Transaction>
     <Transaction>2018/10/26 04:17:34.000.885,C:\Projetos\Livro Delphi Packt\examples\01 - Instagram Clone\Unit1.fmx=C:\Projetos\Livro Delphi Packt\examples\01 - Instagram Clone\uFrmInstagram.fmx</Transaction>
-    <Transaction>2018/12/04 03:50:16.950,C:\Projetos\Livro Delphi Packt\examples\01 - Instagram Clone\Form_Login.pas=</Transaction>
-    <Transaction>2018/12/04 03:50:17.188,C:\Projetos\Livro Delphi Packt\examples\01 - Instagram Clone\Form_Inicial.pas=</Transaction>
+    <Transaction>2018/12/04 03:50:16.000.950,C:\Projetos\Livro Delphi Packt\examples\01 - Instagram Clone\Form_Login.pas=</Transaction>
+    <Transaction>2018/12/04 03:50:17.000.188,C:\Projetos\Livro Delphi Packt\examples\01 - Instagram Clone\Form_Inicial.pas=</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
-		<NoProfile Android="Emulador" iOSSimulator="iPhone5"/>
+		<NoProfile Android="" iOSSimulator="iPhone5"/>
 		<PMACANDREA iOSSimulator="iPhone5"/>
 		<PMacBook iOSSimulator="iPhone5"/>
 		<PMacVirtual iOSSimulator="iPhone5"/>

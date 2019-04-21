@@ -30,6 +30,7 @@ type
     procedure TakePhotoFromLibraryAction1DidFinishTaking(Image: TBitmap);
     procedure Button3Click(Sender: TObject);
     procedure ShowShareSheetAction1BeforeExecute(Sender: TObject);
+    procedure FormCreate(Sender: TObject);
   private
     { Private declarations }
   public
@@ -46,6 +47,7 @@ implementation
 {$R *.fmx}
 {$R *.LgXhdpiPh.fmx ANDROID}
 {$R *.NmXhdpiPh.fmx ANDROID}
+{$R *.SmXhdpiPh.fmx ANDROID}
 
 { TForm1 }
 
@@ -77,6 +79,12 @@ procedure TForm1.DoMessageListener(const Sender: TObject; const M: TMessage);
 begin
   if M is TMessageDidFinishTakingImageFromLibrary then
     ImgInsta.Bitmap.Assign(TMessageDidFinishTakingImageFromLibrary(M).Value);
+end;
+
+procedure TForm1.FormCreate(Sender: TObject);
+begin
+  TMessageManager.DefaultManager.SubscribeToMessage(
+    TMessageDidFinishTakingImageFromLibrary, DoMessageListener);
 end;
 
 procedure TForm1.ShowShareSheetAction1BeforeExecute(Sender: TObject);
