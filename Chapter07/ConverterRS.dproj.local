@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/03/11 09:42:04.000.074,=C:\Users\William\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/11 10:09:41.000.486,=C:\Users\William\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/16 09:51:04.000.849,=C:\Users\William\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/16 12:14:23.000.518,=C:\Users\William\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/23 03:27:30.342,=emsserverapi.dcp</Transaction>
+    <Transaction>2019/04/23 03:27:30.374,=C:\Users\William\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/23 04:36:29.365,=C:\Users\William\Documents\Embarcadero\Studio\Projects\converter.pas</Transaction>
+    <Transaction>2019/04/23 04:40:59.399,D:\Projetos\Delphi-Programming-Projects-master\07 - RAD Server\uConverterRADServer.pas=C:\Users\William\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/23 04:40:59.399,D:\Projetos\Delphi-Programming-Projects-master\07 - RAD Server\uConverterRADServer.dfm=C:\Users\William\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/04/23 04:41:20.538,D:\Projetos\Delphi-Programming-Projects-master\07 - RAD Server\ConverterRS.pas=C:\Users\William\Documents\Embarcadero\Studio\Projects\converter.pas</Transaction>
+    <Transaction>2019/04/23 04:41:39.419,D:\Projetos\Delphi-Programming-Projects-master\07 - RAD Server\ConverterRadS.dproj=C:\Users\William\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/04/23 04:41:49.774,D:\Projetos\Delphi-Programming-Projects-master\07 - RAD Server\Converter.pas=D:\Projetos\Delphi-Programming-Projects-master\07 - RAD Server\ConverterRS.pas</Transaction>
+    <Transaction>2019/04/23 04:42:01.003,D:\Projetos\Delphi-Programming-Projects-master\07 - RAD Server\ConverterRS.dproj=D:\Projetos\Delphi-Programming-Projects-master\07 - RAD Server\ConverterRadS.dproj</Transaction>
+    <Transaction>2019/04/23 04:47:01.047,=xmlrtl.dcp</Transaction>
+    <Transaction>2019/04/23 04:47:01.062,=dbrtl.dcp</Transaction>
+    <Transaction>2019/04/23 04:47:01.074,=soaprtl.dcp</Transaction>
+    <Transaction>2019/04/23 04:47:01.091,=inet.dcp</Transaction>
+    <Transaction>2019/04/23 05:59:37.250,=D:\Projetos\Delphi-Programming-Projects-master\07 - RAD Server\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
