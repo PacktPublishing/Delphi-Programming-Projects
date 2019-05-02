@@ -53,6 +53,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Author
 **William Duarte**
-William Duarte is a Delphi Certified Developer and Embarcadero Regional MVP Coordinator. He began his career in 2005 as a programmer. He was recognized as an internationally certified Retail Technical Consultant by Retail Pro in 2007. He is a specialist in commercial automation and desktop/mobile development, and the author of a book in Portuguese—Delphi for Android and iOS, by Brasport, 2015. He is currently working as a consultant for the Brazilian Navy and retail chain stores.	
+is a Delphi Certified Developer and Embarcadero Regional MVP Coordinator. He began his career in 2005 as a programmer. He was recognized as an internationally certified Retail Technical Consultant by Retail Pro in 2007. He is a specialist in commercial automation and desktop/mobile development, and the author of a book in Portuguese—Delphi for Android and iOS, by Brasport, 2015. He is currently working as a consultant for the Brazilian Navy and retail chain stores.	
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
