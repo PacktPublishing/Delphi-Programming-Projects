@@ -7,14 +7,14 @@ This is the code repository for [Delphi Programming Projects](https://www.packtp
 **Build a range of exciting projects by exploring cross-platform development and microservices**
 
 ## What is this book about?
-Delphi is a cross-platform programming language and software development Kit that supports rapid application development for Microsoft Windows, Apple Mac OS X, Android, and iOS.
+Delphi is a cross-platform programming language and software development kit that supports rapid application development for Microsoft Windows, Apple Mac OS X, Android, and iOS.
 
 This book covers the following exciting features:
 * Get to grips with the advanced features of RTL. 
-* Understand how to deal with the change of paradigm between multi-platform projects. 
-* Acquire knowledge of building Microservices Using The RAD Server. 
+* Understand how to deal with the change of paradigm between multiplatform projects. 
+* Acquire knowledge of building microservices using the RAD Server. 
 * Understand how to implement design patterns in Delphi. 
-* Explore Firemonkey to create GUI applications. 
+* Explore FireMonkey to create GUI applications. 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789808898) today!
 
