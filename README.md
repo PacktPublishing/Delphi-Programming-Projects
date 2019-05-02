@@ -37,7 +37,7 @@ This book is for developers, programmers, and IT professionals who want to learn
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-7).
 ### Software and Hardware List
-| Chapter | Software required | OS required |
+| Sr. No. | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
 | 1 | Delphi 10.3 Community Edition | Windows, Mac OS X, and Linux (Any) |
 | 2 | Delphi 10.3 Enterprise Edition | Windows, Mac OS X, and Linux (Any) |
@@ -54,7 +54,5 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **William Duarte**
 William Duarte is a Delphi Certified Developer and Embarcadero Regional MVP Coordinator. He began his career in 2005 as a programmer. He was recognized as an internationally certified Retail Technical Consultant by Retail Pro in 2007. He is a specialist in commercial automation and desktop/mobile development, and the author of a book in Portuguese—Delphi for Android and iOS, by Brasport, 2015. He is currently working as a consultant for the Brazilian Navy and retail chain stores.	
-
-## Other books by the authors
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
