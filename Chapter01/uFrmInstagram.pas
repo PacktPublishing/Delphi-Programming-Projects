@@ -47,7 +47,7 @@ implementation
 {$R *.fmx}
 {$R *.LgXhdpiPh.fmx ANDROID}
 {$R *.NmXhdpiPh.fmx ANDROID}
-{$R *.SmXhdpiPh.fmx ANDROID}
+//{$R *.SmXhdpiPh.fmx ANDROID}
 
 { TForm1 }
 
